@@ -1,10 +1,5 @@
 # Text2Motion：从自然语言文本到人形机器人全身运动的端到端生成与部署系统
-
-> 一句话概括：文本进去，机器人在仿真/真机中按指令走、跑、打拳、站立。
-> 技术栈核心：**MVAE + 条件扩散 / Flow Matching + 跟踪策略**，三段式打通"语言 → 运动隐空间 → 关节轨迹 → 真机控制"。
-
----
-
+实际部署demo可见google drive: https://docs.google.com/videos/d/1yToQz0qyaa4KWoz-226hIxmNvIcGwF1jAWMcfbJhXKI/edit?usp=sharing
 ## 0. 项目全景
 
 整个系统由三个子模块组成，全部由我深度参与：
