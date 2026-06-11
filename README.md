@@ -1,5 +1,5 @@
 # Text2Motion：从自然语言文本到人形机器人全身运动的端到端生成与部署系统
-实际部署demo可见google drive: https://docs.google.com/videos/d/1yToQz0qyaa4KWoz-226hIxmNvIcGwF1jAWMcfbJhXKI/edit?usp=sharing
+实际部署demo可见google drive: [https://docs.google.com/videos/d/1yToQz0qyaa4KWoz-226hIxmNvIcGwF1jAWMcfbJhXKI/edit?usp=sharing](https://drive.google.com/file/d/1anHcQMLNJXDJBaKyUXa_pSIspbVrO9D0/view?usp=drivesdk)
 ## 0. 项目全景
 
 整个系统由三个子模块组成，全部由我深度参与：
